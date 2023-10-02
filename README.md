@@ -8,6 +8,7 @@ This project is a web-based chatbot application powered by the Mistral-7b-DZ_Sta
 + **Model Architecture**: Mistral-7B-Instruct-v0.1
 + **Model Size**: 7.3 billion parameters
 + **Fine-tuned on**: Algerian Startups Dataset V1  by TuningAI Team
++ **https://huggingface.co/ayoubkirouane/Mistral-7b-DZ_Startups**
 
 ## Technologies Used
 + **Gradio**: Gradio is used to create the web-based user interface and facilitate real-time communication with the model.
